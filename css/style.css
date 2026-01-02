@@ -543,8 +543,8 @@ html[data-theme="dark"] #toggle-mode-btn i {
     color: #e2e8f0;
     font-size: 0.8rem;
     display: block;
-    overflow-x: auto;
-    white-space: nowrap;
+    word-break: break-all;
+    white-space: pre-wrap;
 }
 
 .terminal-window code::before {
