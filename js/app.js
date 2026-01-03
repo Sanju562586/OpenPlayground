@@ -59,6 +59,7 @@ let allProjectsData = []; // Store raw JSON data here
 const searchInput = document.getElementById("project-search");
 const sortSelect = document.getElementById("project-sort");
 const filterBtns = document.querySelectorAll(".filter-btn");
+const surpriseBtn = document.getElementById("surprise-btn"); // New Button
 
 const projectsContainer = document.querySelector(".projects-container");
 const paginationContainer = document.getElementById("pagination-controls");
@@ -87,6 +88,18 @@ sortSelect.addEventListener("change", () => {
     currentPage = 1;
     renderProjects();
 });
+
+// Surprise Me Button Logic
+if (surpriseBtn) {
+    surpriseBtn.addEventListener("click", () => {
+        if (allProjectsData.length > 0) {
+            const randomIndex = Math.floor(Math.random() * allProjectsData.length);
+            const randomProject = allProjectsData[randomIndex];
+            // Open project link
+            window.open(randomProject.link, "_self");
+        }
+    });
+}
 
 filterBtns.forEach(btn => {
     btn.addEventListener("click", () => {
