@@ -1,4 +1,13 @@
 [
+  {
+    "title": "Drag and Drop List Manager",
+    "category": "utility",
+    "description": "A drag-and-drop list manager with reordering, priority levels, and local storage persistence.",
+    "tech": ["HTML", "CSS", "JavaScript"],
+    "link": "./projects/DragAndDropList/index.html",
+    "icon": "ri-draggable",
+    "coverStyle": "background: linear-gradient(135deg, #6366f1 0%, #4f46e5 100%); color:#ffffff;"
+  },
 
   {
     "title": "Focus Session Companion",
