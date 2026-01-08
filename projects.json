@@ -1402,4 +1402,26 @@
     "icon": "ri-text",
     "coverStyle": "background: linear-gradient(135deg, #8b5cf6 0%, #a855f7 100%); color: white;"
   }
+  ,
+  {
+  "title": "Drawing Canvas",
+  "category": "game",
+  "description": "A simple interactive canvas that lets users draw freely with adjustable brush size and color.",
+  "tech": ["HTML", "CSS", "JavaScript", "Canvas"],
+  "link": "./projects/simple-drawing-canvas/index.html",
+  "icon": "ri-brush-line",
+  "coverClass": "drawing-canvas-cover"
+}
+{
+  "title": "Online Food Delivery App",
+  "category": "utility",
+  "description": "Responsive food ordering UI with cart functionality",
+  "tech": ["HTML", "CSS", "JS"],
+  "link": "./projects/online-food-delivery/index.html",
+  "icon": "ri-restaurant-line",
+  "coverClass": "online-food-cover"
+}
+
+
+
 ]
