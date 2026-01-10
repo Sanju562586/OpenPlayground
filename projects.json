@@ -1108,7 +1108,6 @@
     "icon": "ri-user-line",
     "coverStyle": "background: linear-gradient(135deg, #f3e8ff 0%, #e9d5ff 100%); color: #7c2d12;"
   },
-
   {
     "title": "Truth or Dare",
     "category": "game",
@@ -1484,5 +1483,14 @@
     "link": "./projects/OS-ReadinessChecker/index.html",
     "icon": "ri-direction-line",
     "coverStyle": "background: linear-gradient(135deg, #020617 0%, #22d3ee 100%); color:#ecfeff;"
-  }
+  },
+  {
+  "title": "GitHub User Finder",
+  "category": "utility",
+  "description": "Search and explore GitHub user profiles with recent repositories in real time.",
+  "tech": ["HTML", "CSS", "JavaScript", "GitHub API"],
+  "link": "./projects/github-user-finder/index.html",
+  "icon": "ri-github-fill",
+  "coverClass": "background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%); color: #ffffff;"
+  } 
 ]
