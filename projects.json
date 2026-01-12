@@ -2496,6 +2496,19 @@
   "link": "./projects/text-styler/index.html",
   "icon": "ri-font-size-line",
   "coverStyle": "background: linear-gradient(135deg, #ff7e5f 0%, #feb47b 100%); color: white;"
+},
+{
+  "title": "Tab / Window Organizer",
+  "category": "productivity",
+  "description": "Save and organize URLs by categories, open multiple tabs at once, and track last accessed.",
+  "tech": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "link": "./projects/tab-organizer/index.html",
+  "icon": "ri-window-line",
+  "coverStyle": "background: linear-gradient(135deg, #4b6cb7 0%, #182848 100%); color: white;"
 }
 
 ]
