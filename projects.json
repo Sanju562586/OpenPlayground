@@ -56,7 +56,7 @@
     "coverStyle": "background: linear-gradient(135deg, #60a5fa 0%, #3b82f6 100%); color: #22c55e;"
   },
   {
-    "title": "Color Palette Generator",
+    "title": "Sound Reaction System",
     "category": "utility",
     "description": "Generate beautiful random color palettes.",
     "tech": [
@@ -79,11 +79,7 @@
     ],
     "link": "./projects/InfiniteParallaxRunner/index.html",
     "icon": "ri-gamepad-line",
-    "coverClass": "runner-cover"
-  },
-  {
-    "title": "Sound Reaction System",
-    "category": "utility",
+    "coverClass": "runner-cover",
     "description": "Adaptive audio interaction module with environmental calibration, live decibel monitoring, and adjustable sensitivity controls.",
     "tech": [
       "HTML",
@@ -111,7 +107,7 @@
     "coverStyle": "background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%); color: white;"
   },
   {
-    "title": "Dictionary App",
+    "title": "Dictonary App",
     "category": "productivity",
     "description": "A sleek dictionary application that fetches word definitions, synonyms, and pronunciation using a public API, with a user-friendly interface and search history feature.",
     "tech": [
@@ -145,19 +141,6 @@
       "CSS",
       "JS"
     ],
-    "link": "./projects/FalseChoiceSimulator/index.html",
-    "icon": "ri-brain-line",
-    "coverStyle": "background: linear-gradient(135deg, #faf5ff 0%, #f5f3ff 100%); color: #7c3aed;"
-  },
-  {
-    "title": "Calculator",
-    "category": "utility",
-    "description": "Basic arithmetic calculator.",
-    "tech": [
-      "HTML",
-      "CSS",
-      "JS"
-    ],
     "link": "./projects/calculator/index.html",
     "icon": "ri-calculator-line",
     "coverClass": "calculator-cover"
@@ -166,10 +149,9 @@
     "title": "Tic Tac Toe",
     "category": "strategy",
     "description": "Classic 2-player strategy game.",
-    "link": "./projects/tic-tac-toe/index.html",
-    "icon": "ri-grid-line",
-    "coverClass": "tictactoe-cover",
-    "tech": ["HTML", "CSS", "JS"]
+    "link": "./projects/FalseChoiceSimulator/index.html",
+    "icon": "ri-brain-line",
+    "coverStyle": "background: linear-gradient(135deg, #faf5ff 0%, #f5f3ff 100%); color: #7c3aed;"
   },
   {
     "title": "Fun balloon popping game",
@@ -180,18 +162,17 @@
       "CSS",
       "JS"
     ],
-    "link": "./projects/fun-ballon-pop-game/index.html",
-    "icon": "ri-focus-line",
-    "coverStyle": "background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); color: white;"
+    "link": "./projects/tic-tac-toe/index.html",
+    "icon": "ri-grid-line",
+    "coverClass": "tictactoe-cover"
   },
   {
     "title": "Quiz Game",
     "category": "puzzle",
     "description": "MCQ quiz with timer.",
-    "link": "./projects/quiz-game/index.html",
-    "icon": "ri-question-line",
-    "coverClass": "quiz-cover",
-    "tech": ["HTML", "CSS", "JS"]
+    "link": "./projects/fun-ballon-pop-game/index.html",
+    "icon": "ri-focus-line",
+    "coverStyle": "background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); color: white;"
   },
   {
     "title": "Traffic Sign Memory Game",
@@ -202,12 +183,15 @@
       "CSS",
       "JS"
     ],
+    "link": "./projects/quiz-game/index.html",
+    "icon": "ri-question-line",
+    "coverClass": "quiz-cover",
     "link": "./projects/TrafficSignMemory/index.html",
     "icon": "ri-road-map-line",
     "coverStyle": "background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); color: white;"
   },
   {
-    "title": "Weather App",
+    "title": "Interactive Road Safety Quiz",
     "category": "utility",
     "description": "Glassmorphism weather dashboard.",
     "tech": [
@@ -218,11 +202,7 @@
     ],
     "link": "./projects/WeatherApp/index.html",
     "icon": "ri-sun-cloudy-line",
-    "coverClass": "weather-cover"
-  },
-  {
-    "title": "Interactive Road Safety Quiz",
-    "category": "utility",
+    "coverClass": "weather-cover",
     "description": "An engaging quiz platform testing knowledge of road safety rules, traffic signs, and safe driving practices with multiple difficulty levels and instant feedback.",
     "tech": [
       "HTML",
@@ -236,6 +216,7 @@
   {
     "title": "Image Preview Uploader",
     "category": "utility",
+    "description": "Work & break productivity timer.",
     "difficulty": "Intermediate",
     "description": "Preview and validate images before upload with drag and drop support.",
     "tech": [
@@ -243,22 +224,10 @@
       "CSS",
       "JS"
     ],
+    "link": "./projects/PomodoroTimer/index.html",
     "link": "./projects/image-preview-uploader/index.html",
     "icon": "ri-image-add-line",
     "coverStyle": "background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%); color: white;"
-  },
-  {
-    "title": "Pomodoro Timer",
-    "category": "utility",
-    "description": "Work & break productivity timer.",
-    "tech": [
-      "HTML",
-      "CSS",
-      "JS"
-    ],
-    "link": "./projects/PomodoroTimer/index.html",
-    "icon": "ri-timer-flash-line",
-    "coverStyle": "background: #4f46e5; color: white;"
   },
   {
     "title": "Stack vs Queue Visualizer",
@@ -406,7 +375,7 @@
     "coverStyle": "background: #4f46e5; color: white;"
   },
   {
-    "title": "QR Code Generator",
+    "title": "Age Calculator App",
     "category": "utility",
     "description": "Generate and download QR codes for text or URLs.",
     "tech": [
@@ -417,11 +386,7 @@
     ],
     "link": "./projects/qr-code-generator/index.html",
     "icon": "ri-qr-code-line",
-    "coverStyle": "background:#d1faf6; color:black"
-  },
-  {
-    "title": "Age Calculator App",
-    "category": "utility",
+    "coverStyle": "background:#d1faf6; color:black",
     "description": "Calculate your exact age in years, months, and days.",
     "tech": [
       "HTML",
@@ -433,7 +398,7 @@
     "coverStyle": "background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%); color:#78350f;"
   },
   {
-    "title": "Kanban Board",
+    "title": "Personal Diary",
     "category": "utility",
     "description": "Drag-and-drop task board with local storage.",
     "tech": [
@@ -443,11 +408,7 @@
     ],
     "link": "./projects/kanban-board/index.html",
     "icon": "ri-kanban-view",
-    "coverStyle": "background:#667eea; color:white"
-  },
-  {
-    "title": "Personal Diary",
-    "category": "utility",
+    "coverStyle": "background:#667eea; color:white",
     "description": "A personal diary app to write, view, search, and manage daily entries with local data persistence.",
     "tech": [
       "HTML",
@@ -472,9 +433,10 @@
     "coverStyle": "background: linear-gradient(135deg, #ecfeff 0%, #cffafe 100%); color:#164e63;"
   },
   {
-    "title": "Snake Game",
+    "title": "Flip a Coin Game",
     "category": "game",
     "description": "Classic Snake game with AI mode and adjustable speed.",
+    "description": "Press keys for drumming sounds.",
     "tech": [
       "HTML",
       "CSS",
@@ -482,17 +444,7 @@
     ],
     "link": "./projects/snake-game/index.html",
     "icon": "ri-gamepad-line",
-    "coverStyle": "background:#22c55e; color:white"
-  },
-  {
-    "title": "Flip a Coin Game",
-    "category": "game",
-    "description": "Press keys for drumming sounds.",
-    "tech": [
-      "HTML",
-      "CSS",
-      "JS"
-    ],
+    "coverStyle": "background:#22c55e; color:white",
     "link": "./projects/flip-coin/index.html",
     "icon": "ri-coin-line",
     "coverStyle": "background: #fdf2f8; color: #db2777;"
@@ -555,6 +507,7 @@
     "title": "EduConnect",
     "category": "utility",
     "description": "Collaborative platform connecting students and teachers.",
+    "description": "Collaborative platform for students and teachers.",
     "tech": [
       "HTML",
       "CSS",
@@ -628,6 +581,20 @@
     "link": "./projects/file-upload-preview/index.html",
     "icon": "ri-upload-cloud-line",
     "coverClass": "file-upload-preview-cover"
+  },
+  {
+    "title": "Infinite Runner",
+    "category": "game",
+    "difficulty": "Advanced",
+    "description": "Procedural neon runner with parallax.",
+    "tech": [
+      "HTML",
+      "Canvas",
+      "JS"
+    ],
+    "link": "./projects/InfiniteParallaxRunner/index.html",
+    "icon": "ri-run-line",
+    "coverStyle": "background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); color: #00d9ff;"
   },
   {
     "title": "Word Twist Challenge",
@@ -723,6 +690,7 @@
   {
     "title": "Password Generator",
     "category": "utility",
+    "description": "Generate secure, random passwords with custom options.",
     "difficulty": "Beginner",
     "description": "Generate secure random passwords.",
     "tech": [
@@ -746,6 +714,19 @@
     "link": "./projects/Pattern Memory Game/index.html",
     "icon": "ri-grid-fill",
     "coverStyle": "background: #4338ca; color: white;"
+  },
+  {
+    "title": "Pomodoro Timer",
+    "category": "utility",
+    "description": "Work & break productivity timer.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "link": "./projects/PomodoroTimer/index.html",
+    "icon": "ri-timer-flash-line",
+    "coverStyle": "background: #4f46e5; color: white;"
   },
   {
     "title": "Reaction Time",
@@ -817,6 +798,7 @@
   {
     "title": "Unit Converter",
     "category": "utility",
+    "description": "Convert between different units of measurement.",
     "difficulty": "Beginner",
     "description": "Convert between different units.",
     "tech": [
@@ -829,7 +811,7 @@
     "coverStyle": "background: #0891b2; color: white;"
   },
   {
-    "title": "Counter",
+    "title": "Weather App",
     "category": "utility",
     "description": "Simple counter application with reset functionality.",
     "tech": [
@@ -839,7 +821,18 @@
     ],
     "link": "./projects/counter/index.html",
     "icon": "ri-add-circle-line",
-    "coverClass": "counter-cover"
+    "coverClass": "counter-cover",
+    "difficulty": "Intermediate",
+    "description": "Glassmorphism weather dashboard.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS",
+      "API"
+    ],
+    "link": "./projects/WeatherApp/index.html",
+    "icon": "ri-sun-cloudy-line",
+    "coverStyle": "background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;"
   },
   {
     "title": "Whack a Box",
@@ -855,10 +848,11 @@
     "coverStyle": "background: #f59e0b; color: white;"
   },
   {
-    "title": "Digital Clock",
+    "title": "Age Calculator",
     "category": "utility",
     "description": "Feature-rich digital clock with stopwatch and timer.",
     "difficulty": "Beginner",
+    "description": "Calculate your exact age in detail.",
     "tech": [
       "HTML",
       "CSS",
@@ -866,17 +860,7 @@
     ],
     "link": "./projects/digital-clock/index.html",
     "icon": "ri-time-line",
-    "coverClass": "clock-cover"
-  },
-  {
-    "title": "Age Calculator",
-    "category": "utility",
-    "description": "Calculate your exact age in detail.",
-    "tech": [
-      "HTML",
-      "CSS",
-      "JS"
-    ],
+    "coverClass": "clock-cover",
     "link": "./projects/age-calculator/index.html",
     "icon": "ri-calendar-line",
     "coverStyle": "background: #8b5cf6; color: white;"
@@ -895,10 +879,11 @@
     "coverStyle": "background: linear-gradient(135deg, #22ffcc, #00e5ff, #c77dff); color: #020617;"
   },
   {
-    "title": "Image Slider",
+    "title": "BMI Calculator",
     "category": "utility",
     "description": "Interactive image carousel with navigation controls.",
     "difficulty": "Beginner",
+    "description": "Calculate your Body Mass Index.",
     "tech": [
       "HTML",
       "CSS",
@@ -906,17 +891,7 @@
     ],
     "link": "./projects/image-slider/index.html",
     "icon": "ri-slideshow-line",
-    "coverStyle": "background: linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%); color: #4338ca;"
-  },
-  {
-    "title": "BMI Calculator",
-    "category": "utility",
-    "description": "Calculate your Body Mass Index.",
-    "tech": [
-      "HTML",
-      "CSS",
-      "JS"
-    ],
+    "coverStyle": "background: linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%); color: #4338ca;",
     "link": "./projects/bmi-calculator/index.html",
     "icon": "ri-heart-pulse-line",
     "coverStyle": "background: #ec4899; color: white;"
@@ -935,9 +910,10 @@
     "coverStyle": "background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); color: #0f766e;"
   },
   {
-    "title": "Password Strength Checker",
+    "title": "Calculator",
     "category": "utility",
     "description": "Analyze the security strength of your passwords.",
+    "description": "Basic arithmetic calculator.",
     "tech": [
       "HTML",
       "CSS",
@@ -945,12 +921,16 @@
     ],
     "link": "./projects/password-strength-checker/index.html",
     "icon": "ri-shield-check-line",
-    "coverClass": "password-cover"
+    "coverClass": "password-cover",
+    "link": "./projects/calculator/index.html",
+    "icon": "ri-calculator-line",
+    "coverStyle": "background: #374151; color: #f9fafb;"
   },
   {
-    "title": "Productivity Dashboard",
+    "title": "Captcha Generator",
     "category": "utility",
     "description": "Personal productivity dashboard to track tasks.",
+    "description": "Generate custom captcha codes.",
     "tech": [
       "HTML",
       "CSS",
@@ -958,25 +938,16 @@
     ],
     "link": "./projects/productivity-dashboard/index.html",
     "icon": "ri-dashboard-line",
-    "coverStyle": "background: linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%); color: #0f766e;"
-  },
-  {
-    "title": "Captcha Generator",
-    "category": "utility",
-    "description": "Generate custom captcha codes.",
-    "tech": [
-      "HTML",
-      "CSS",
-      "JS"
-    ],
+    "coverStyle": "background: linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%); color: #0f766e;",
     "link": "./projects/captcha-generator/index.html",
     "icon": "ri-shield-keyhole-line",
     "coverStyle": "background: #1d4ed8; color: white;"
   },
   {
-    "title": "Quote Generator",
+    "title": "Chat App",
     "category": "utility",
     "description": "Generate random inspirational quotes instantly.",
+    "description": "Real-time messaging application.",
     "tech": [
       "HTML",
       "CSS",
@@ -984,25 +955,16 @@
     ],
     "link": "./projects/quote-generator/index.html",
     "icon": "ri-chat-quote-line",
-    "coverClass": "quote-cover"
-  },
-  {
-    "title": "Chat App",
-    "category": "utility",
-    "description": "Real-time messaging application.",
-    "tech": [
-      "HTML",
-      "CSS",
-      "JS"
-    ],
+    "coverClass": "quote-cover",
     "link": "./projects/chat-app/index.html",
     "icon": "ri-chat-3-line",
     "coverStyle": "background: #0ea5e9; color: white;"
   },
   {
-    "title": "Todo List",
+    "title": "Code Editor",
     "category": "utility",
     "description": "Manage daily tasks with a simple todo list.",
+    "description": "In-browser code editor with syntax highlighting.",
     "tech": [
       "HTML",
       "CSS",
@@ -1010,25 +972,16 @@
     ],
     "link": "./projects/todo-list/index.html",
     "icon": "ri-list-check",
-    "coverClass": "todo-cover"
-  },
-  {
-    "title": "Code Editor",
-    "category": "utility",
-    "description": "In-browser code editor with syntax highlighting.",
-    "tech": [
-      "HTML",
-      "CSS",
-      "JS"
-    ],
+    "coverClass": "todo-cover",
     "link": "./projects/code-editor/index.html",
     "icon": "ri-code-s-slash-line",
     "coverStyle": "background: #1e1e1e; color: #4ec9b0;"
   },
   {
-    "title": "Typing Speed Test",
+    "title": "Color Code Converter",
     "category": "utility",
     "description": "Test your WPM and accuracy with this typing tool.",
+    "description": "Convert between HEX, RGB, and HSL.",
     "tech": [
       "HTML",
       "CSS",
@@ -1036,25 +989,16 @@
     ],
     "link": "./projects/typing-speed-test/index.html",
     "icon": "ri-keyboard-line",
-    "coverClass": "typing-cover"
-  },
-  {
-    "title": "Color Code Converter",
-    "category": "utility",
-    "description": "Convert between HEX, RGB, and HSL.",
-    "tech": [
-      "HTML",
-      "CSS",
-      "JS"
-    ],
+    "coverClass": "typing-cover",
     "link": "./projects/color-code-converter/index.html",
     "icon": "ri-contrast-2-line",
     "coverStyle": "background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white;"
   },
   {
-    "title": "Keyboard Key Detector",
+    "title": "Color Palette Generator",
     "category": "utility",
     "description": "Detect and display the keys pressed on your keyboard.",
+    "description": "Generate beautiful random color palettes.",
     "tech": [
       "HTML",
       "CSS",
@@ -1062,7 +1006,10 @@
     ],
     "link": "./projects/keyboard-key-detector/index.html",
     "icon": "ri-tools-line",
-    "coverClass": "keyboard-key-detector-cover"
+    "coverClass": "keyboard-key-detector-cover",
+    "link": "./projects/color-palette-generator/index.html",
+    "icon": "ri-palette-line",
+    "coverStyle": "background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;"
   },
   {
     "title": "Connect Four",
@@ -1080,6 +1027,7 @@
   {
     "title": "Counter App",
     "category": "utility",
+    "description": "Generate random Instagram bio suggestions with emojis and vibes.",
     "difficulty": "Beginner",
     "description": "Simple counter with reset functionality.",
     "tech": [
@@ -1087,6 +1035,9 @@
       "CSS",
       "JS"
     ],
+    "link": "./projects/Insta_bio_suggesstion/index.html",
+    "icon": "ri-user-line",
+    "coverStyle": "background: linear-gradient(135deg, #f3e8ff 0%, #e9d5ff 100%); color: #7c2d12;",
     "link": "./projects/counter/index.html",
     "icon": "ri-add-circle-line",
     "coverStyle": "background: #6366f1; color: white;"
@@ -1115,7 +1066,10 @@
     ],
     "link": "./projects/Mental_Fatigue_Tester/index.html",
     "icon": "ri-question-line",
-    "coverStyle": "background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);"
+    "coverStyle": "background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);",
+    "link": "./projects/counter/index.html",
+    "icon": "ri-add-circle-line",
+    "coverStyle": "background: #6366f1; color: white;"
   },
   {
     "title": "Currency Converter",
@@ -1143,6 +1097,19 @@
     "link": "./projects/data-visualization-tool/index.html",
     "icon": "ri-bar-chart-2-line",
     "coverStyle": "background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white;"
+  },
+  {
+    "title": "Digital Clock",
+    "category": "utility",
+    "description": "Feature-rich digital clock with stopwatch.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "link": "./projects/digital-clock/index.html",
+    "icon": "ri-time-line",
+    "coverStyle": "background: #0f172a; color: #22d3ee;"
   },
   {
     "title": "File Upload Preview",
@@ -1211,6 +1178,19 @@
     "coverStyle": "background: #dc2626; color: white;"
   },
   {
+    "title": "Image Slider",
+    "category": "utility",
+    "description": "Interactive image carousel with navigation.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "link": "./projects/image-slider/index.html",
+    "icon": "ri-slideshow-line",
+    "coverStyle": "background: linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%); color: #4338ca;"
+  },
+  {
     "title": "Kanban Board",
     "category": "utility",
     "difficulty": "Intermediate",
@@ -1275,6 +1255,74 @@
     "link": "./projects/monthly-calendar/index.html",
     "icon": "ri-calendar-2-line",
     "coverStyle": "background: #2563eb; color: white;"
+  },
+  {
+    "title": "Password Strength Checker",
+    "category": "utility",
+    "description": "Analyze password security strength.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "link": "./projects/password-strength-checker/index.html",
+    "icon": "ri-shield-check-line",
+    "coverStyle": "background: #0d9488; color: white;"
+  },
+  {
+    "title": "Productivity Dashboard",
+    "category": "utility",
+    "description": "Personal productivity tracking dashboard.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "link": "./projects/productivity-dashboard/index.html",
+    "icon": "ri-dashboard-line",
+    "coverStyle": "background: linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%); color: #0f766e;"
+  },
+  {
+    "title": "QR Code Generator",
+    "category": "utility",
+    "difficulty": "Intermediate",
+    "description": "Generate and download QR codes.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS",
+      "API"
+    ],
+    "link": "./projects/qr-code-generator/index.html",
+    "icon": "ri-qr-code-line",
+    "coverStyle": "background: #d1faf6; color: #0f766e;"
+  },
+  {
+    "title": "Quiz Game",
+    "category": "game",
+    "description": "MCQ quiz with timer.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "link": "./projects/quiz-game/index.html",
+    "icon": "ri-question-line",
+    "coverStyle": "background: #7c3aed; color: white;"
+  },
+  {
+    "title": "Quote Generator",
+    "category": "utility",
+    "difficulty": "Beginner",
+    "description": "Generate random inspirational quotes.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "link": "./projects/quote-generator/index.html",
+    "icon": "ri-chat-quote-line",
+    "coverStyle": "background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); color: #7c2d12;"
   },
   {
     "title": "Random Dice Generator",
@@ -1358,7 +1406,7 @@
     "coverStyle": "background: #ea580c; color: white;"
   },
   {
-    "title": "Piano",
+    "title": "piano",
     "category": "action",
     "description": "Play piano notes using keyboard keys.",
     "tech": [
@@ -1410,6 +1458,32 @@
     "coverStyle": "background: #0891b2; color: white;"
   },
   {
+    "title": "Tic Tac Toe",
+    "category": "strategy",
+    "description": "Classic 2-player strategy game.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "link": "./projects/tic-tac-toe/index.html",
+    "icon": "ri-grid-line",
+    "coverStyle": "background: #3b82f6; color: white;"
+  },
+  {
+    "title": "Todo List",
+    "category": "utility",
+    "description": "Manage daily tasks efficiently.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "link": "./projects/todo-list/index.html",
+    "icon": "ri-list-check",
+    "coverStyle": "background: #8b5cf6; color: white;"
+  },
+  {
     "title": "Get Mouse Position",
     "category": "utility",
     "description": "Track and display mouse coordinates.",
@@ -1421,6 +1495,19 @@
     "link": "./projects/Get-Mouse-Position/index.html",
     "icon": "ri-cursor-line",
     "coverStyle": "background: #8b5cf6; color: white;"
+  },
+  {
+    "title": "Word Twist Challenge",
+    "category": "game",
+    "description": "Guess the correct word from scrambled letters within limited attempts and time.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "link": "./projects/word-twist-challenge/index.html",
+    "icon": "ri-gamepad-line",
+    "coverStyle": "background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%); color: white;"
   },
   {
     "title": "Tower of Hanoi",
@@ -1436,6 +1523,19 @@
     "coverStyle": "background: #7c2d12; color: #fbbf24;"
   },
   {
+    "title": "Typing Speed Test",
+    "category": "utility",
+    "description": "Test your WPM and typing accuracy.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "link": "./projects/typing-speed-test/index.html",
+    "icon": "ri-keyboard-line",
+    "coverStyle": "background: #1e293b; color: #22d3ee;"
+  },
+  {
     "title": "Simple Interest Calculator",
     "category": "utility",
     "difficulty": "Beginner",
@@ -1448,6 +1548,45 @@
     "link": "./projects/simple-interest-calculator/index.html",
     "icon": "ri-percent-line",
     "coverStyle": "background: #1e293b; color: #22d3ee;"
+  },
+  {
+    "title": "Instagram Bio Generator",
+    "category": "utility",
+    "description": "Generate random Instagram bio suggestions with emojis and vibes.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "link": "./projects/Insta_bio_suggesstion/index.html",
+    "icon": "ri-user-line",
+    "coverStyle": "background: linear-gradient(135deg, #f3e8ff 0%, #e9d5ff 100%); color: #7c2d12;"
+  },
+  {
+    "title": "Hangman Game",
+    "category": "game",
+    "description": "Guess the hidden word one letter at a time before running out of attempts.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "link": "./projects/hangman-game/index.html",
+    "icon": "ri-keyboard-line",
+    "coverClass": "hangman-cover"
+  },
+  {
+    "title": "Word Twist Challenge",
+    "category": "game",
+    "description": "Guess the correct word from scrambled letters within limited attempts and time.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "link": "./projects/word-twist-challenge/index.html",
+    "icon": "ri-gamepad-line",
+    "coverStyle": "background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%); color: white;"
   },
   {
     "title": "Truth or Dare",
@@ -1581,7 +1720,7 @@
     "coverStyle": "background: linear-gradient(135deg, #064e3b 0%, #16a34a 100%); color:#ecfdf5;"
   },
   {
-    "title": "Random OTP Generator",
+    "title": "Random OTP Generator ",
     "category": "utility",
     "description": "Generate secure one-time passwords (OTPs)",
     "tech": [
@@ -1648,7 +1787,7 @@
   {
     "title": "Barcode Generator",
     "category": "utility",
-    "description": "Generate barcodes from input text",
+    "description": "Generate barcodes from input text ",
     "tech": [
       "HTML",
       "CSS",
@@ -1670,6 +1809,51 @@
     "link": "./projects/Life_Choice_Simulator/index.html",
     "icon": "ri-route-line",
     "coverStyle": "background: linear-gradient(135deg, #0f172a 0%, #334155 100%); color:#f8fafc;"
+  },
+  {
+    "title": "Random Character Generator",
+    "category": "utility",
+    "description": "Generate a fictional character with random traits, strengths, and personality.",
+    "tech": ["HTML", "CSS", "JS"],
+    "link": "./projects/Random_Character_Generator/index.html",
+    "icon": "ri-user-smile-line",
+    "coverStyle": "background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); color: #7c2d12;"
+  },
+  {
+    "title": "Profile Editor Simulator",
+    "category": "utility",
+    "description": "Simulate editing a user profile with live preview and save/cancel actions.",
+    "tech": ["HTML", "CSS", "JS"],
+    "link": "./projects/Profile_Editor_Simulator/index.html",
+    "icon": "ri-user-settings-line",
+    "coverStyle": "background: linear-gradient(135deg, #c7d2fe 0%, #e0e7ff 100%); color:#1e3a8a;"
+  },
+  {
+    "title": "Settings Page Simulator",
+    "category": "utility",
+    "description": "Realistic app-style settings page with toggles, preferences, and saved state.",
+    "tech": ["HTML", "CSS", "JS"],
+    "link": "./projects/Settings_Page_Simulator/index.html",
+    "icon": "ri-settings-3-line",
+    "coverStyle": "background: linear-gradient(135deg, #e0f2fe 0%, #bae6fd 100%); color:#0f172a;"
+  },
+  {
+    "title": "Virtual Control Panel",
+    "category": "utility",
+    "description": "Interactive control panel simulating system switches, indicators, and dependencies.",
+    "tech": ["HTML", "CSS", "JS"],
+    "link": "./projects/Virtual_Control_Panel/index.html",
+    "icon": "ri-dashboard-2-line",
+    "coverStyle": "background: linear-gradient(135deg, #1e293b 0%, #334155 100%); color:#f8fafc;"
+  },
+  {
+    "title": "Random Encounter Generator",
+    "category": "utility",
+    "description": "Generate random encounter scenarios with visual indicators and smooth animations.",
+    "tech": ["HTML", "CSS", "JS"],
+    "link": "./projects/Random_Encounter_Generator/index.html",
+    "icon": "ri-sword-line",
+    "coverStyle": "background: linear-gradient(135deg, #064e3b 0%, #16a34a 100%); color:#ecfdf5;"
   },
   {
     "title": "Drawing Canvas",
@@ -1910,6 +2094,15 @@
     "title": "Internet Speed Tester",
     "category": "utility",
     "description": "Test your internet speed with this interactive tool.",
+    "tech": ["HTML", "CSS", "JS"],
+    "link": "./projects/internet-speed-tester/index.html",
+    "icon": "ri-palette-line",
+    "coverStyle": "background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;"
+  },
+  {
+    "title": "Internet Speed Tester",
+    "category": "utility",
+    "description": "Test your internet speed with this interactive tool.",
     "tech": [
       "HTML",
       "CSS",
@@ -1918,6 +2111,21 @@
     "link": "./projects/internet-speed-tester/index.html",
     "icon": "ri-palette-line",
     "coverStyle": "background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;"
+  },
+  {
+    "title": "SQL Query Visualizer",
+    "category": "utility",
+    "difficulty": "Advanced",
+    "description": "Interactive visualizer for SQL joins using Set Theory diagrams.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS",
+      "Canvas"
+    ],
+    "link": "./projects/SQL_Query_Visualizer/index.html",
+    "icon": "ri-database-2-line",
+    "coverStyle": "background: linear-gradient(135deg, #1e293b 0%, #334155 100%); color: #3b82f6;"
   },
   {
     "title": "GitHub User Finder",
@@ -2405,6 +2613,20 @@
     "coverStyle": "background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;"
   },
   {
+    "title": "SQL Query Visualizer",
+    "category": "utility",
+    "difficulty": "Advanced",
+    "description": "Interactive drag-and-drop tool to visualize SQL joins using set theory and Venn diagrams.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "link": "./projects/SQL_Query_Visualizer/index.html",
+    "icon": "ri-database-2-line",
+    "coverStyle": "background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%); color: white;"
+  },
+  {
     "title": "Study Planner Generator",
     "category": "productivity",
     "description": "Generate customized study plans based on subjects, time available, and learning preferences.",
@@ -2535,6 +2757,28 @@
     "link": "./projects/WeatherSculpture/index.html",
     "icon": "ri-cloud-line",
     "coverStyle": "background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #4cc9f0;"
+  },
+  {
+    "title": "Word Memory Game",
+    "category": "game",
+    "description": "Memory game where you memorize and type words with increasing difficulty across multiple levels.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "link": "./projects/word-memory-game/index.html",
+    "icon": "ri-brain-line",
+    "coverStyle": "background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;"
+  },
+  {
+    "title": "GitHub Profile Score Finder",
+    "category": "utility",
+    "description": "A web-based tool that analyzes a GitHub user's profile and calculates a score based on repositories, stars, forks, followers, and activity using the GitHub API.",
+    "tech": ["HTML", "CSS", "JS"],
+    "link": "./projects/github-profile-score-finder/index.html",
+    "icon": "ri-github-line",
+    "coverStyle": "background: linear-gradient(135deg, #24292e 0%, #57606a 100%);"
   },
   {
     "title": "Instagram Bio Suggestion",
@@ -2668,7 +2912,7 @@
     "coverStyle": "background: linear-gradient(135deg, #2f2f2f 0%, #6b7280 100%); color: white;"
   },
   {
-    "title": "Code Editor",
+    "title": "Code Editor ",
     "category": "utility",
     "description": "Write HTML/JS/CSS → See Live Preview | Save Snippets",
     "tech": [
