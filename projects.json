@@ -46,6 +46,36 @@
     "coverStyle": "background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); color: #5a6782;"
   },
   {
+  "title": "365 Days No-Zero Tracker",
+  "category": "productivity",
+  "difficulty": "Beginner",
+  "description": "A visual productivity tracker based on the No-Zero Days philosophy. Mark daily progress, maintain streaks, view monthly calendars, and stay motivated with dynamic quotes.",
+  "tech": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "LocalStorage",
+    "Date API"
+  ],
+  "link": "./projects/NoZeroTracker/index.html",
+  "icon": "ri-calendar-check-line",
+  "coverStyle": "background: linear-gradient(135deg, #b5eaea 0%, #a8d8ea 50%, #ffd3b6 100%); color: #5a6b8c;"
+},
+  {
+  "title": "Random Mini Challenge Generator",
+  "category": "productivity",
+  "description": "Generate small, achievable challenges to encourage healthy breaks with friendly UI and progress tracking.",
+  "tech": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "LocalStorage"
+  ],
+  "link": "./projects/ChallengeGenerator/index.html",
+  "icon": "ri-gamepad-line",
+  "coverStyle": "background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); color: #5a6782;"
+},
+    {
     "title": "Sphere of Contributors",
     "category": "utility",
     "difficulty": "Intermediate",
@@ -3360,4 +3390,16 @@
     "icon": "ri-flow-chart",
     "coverStyle": "background: linear-gradient(135deg, #fdf2f8 0%, #fbcfe8 50%, #fae8ff 100%); color: #581c87;"
   }
+]
+  },
+  {
+  "title": "UI As Enemy",
+  "category": "fun",
+  "description": "An experimental game where the user interface itself acts as the main antagonist.",
+  "tech": ["HTML", "CSS", "JavaScript"],
+  "link": "./projects/ui-as-enemy/index.html",
+  "icon": "ri-bug-line",
+  "coverStyle": "background: linear-gradient(135deg, #1f2933 0%, #111827 100%); color: #f9fafb;"
+}
+
 ]
