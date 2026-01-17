@@ -6904,7 +6904,17 @@
   "link": "./projects/mistakerunner/index.html",
   "icon": "ri-run-line",
   "coverStyle": "background: linear-gradient(135deg, #fee2e2 0%, #fecaca 50%, #fde68a 100%); color: #7c2d12;"
+},
+{
+  "title": "KeyPlayground",
+  "category": "fun",
+  "description": "An interactive playground for experimenting with keyboard-driven mini games, challenges, and logic-based interactions.",
+  "tech": ["HTML", "CSS", "JavaScript"],
+  "link": "./projects/keyplayground/index.html",
+  "icon": "ri-keyboard-line",
+  "coverStyle": "background: linear-gradient(135deg, #fdf4ff 0%, #fae8ff 50%, #f5d0fe 100%); color: #581c87;"
 }
+
 
 
 ]
