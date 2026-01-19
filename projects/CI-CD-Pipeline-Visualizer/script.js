@@ -952,7 +952,7 @@ class PipelineExecutor {
         this.ui.updateButtons('running');
         this.state.addLog('info', 'Pipeline execution started');
         
-        this.durationInterval = setInterval(() => this.ui.updateDuration(), 100);
+        this.durationInterval = setInterval(() => this.ui.updateDuration(), 250);
         this.state.addInterval(this.durationInterval);
         
         try {
