@@ -1312,6 +1312,11 @@
       "folder": "VirtuF",
       "path": "./projects/virtuf/project.json",
       "link": "./projects/virtuf/index.html"
+    },
+    {
+      "folder": "WebKernel",
+      "path": "./projects/webkernel/project.json",
+      "link": "./projects/webkernel/index.html"
     }
 
   ]
